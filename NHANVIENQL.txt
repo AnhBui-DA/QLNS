@@ -1,0 +1,67 @@
+6
+Q300
+Tran Chi Duc
+19/10/1992
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+Dai hoc
+4.2
+1490000
+600000
+To 1
+2340000
+300000
+Q301
+Nguyen Duc Ngoc
+8/2/2000
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+Dai hoc
+4.2
+1490000
+600000
+To 2
+2340000
+300000
+Q302
+Kieu Van Thai
+20/3/1996
+Boi Khe Chuyen My Phu Xuyen Ha Noi
+Dai hoc
+4.2
+1490000
+600000
+To 3
+2340000
+300000
+Q303
+Truong Van Hoan
+13/10/1999
+41 Xuan Canh Dong Anh Ha Noi
+Dai hoc
+4.2
+1490000
+600000
+To 4
+2340000
+300000
+Q304
+Trinh Ngoc Son
+21/10/2000
+TDP Tru 5 Co Nhue 2 Bac Tu Liem Ha Noi
+Cao dang
+4.2
+1490000
+600000
+To 5
+2340000
+300000
+Q1
+Mai Anh
+5/1/2002
+Dong Anh
+Dai hoc
+2.9
+100
+888
+To 6
+99
+23

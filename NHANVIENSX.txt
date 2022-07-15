@@ -1,0 +1,31 @@
+3
+S400
+Chu Dieu Linh
+1/5/1998
+Lap Thanh Dong Xuan Quoc Oai Ha Noi
+12/12
+3.49
+1490000
+600000
+San xuat
+3000000
+S109 
+Dao Xuan Minh
+8/3/2002
+Co Loa Dong Anh Ha Noi
+Dai hoc
+2.8
+1000000
+422000
+Lap rap
+1000000
+S1
+Mai Anh
+5/1/2002
+Dong Anh Ha Noi
+C2
+3.4
+99990
+1000
+Che tao
+99
